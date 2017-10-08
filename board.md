@@ -4,7 +4,7 @@ Chess Board
 ------
 The board is made up of 9 vertical lines (files) and 10 horizontal lines (ranks), forming 72 squares. The central row of 8 squares are merged into a "river", dividing the board into two halves, the "river" marked with four Kanji characters (楚河漢界). On each side of the board, there is a "palace" consisting of 4 squares (cell) and two long diagonals. The files are numbered as 1 through 9, from right to left, and from each player’s perspective.
 
-![chess board](images/blackchess.png)
+![chess board](images/blackchess.png) <br>
 (fig 1).
 
 Object of the Game
@@ -26,3 +26,6 @@ The name of the Chinese Chess pieces.
 | 2       | 馬   | 馬  | Horse    | H |
 | 2       | 炮   | 砲  | Cannon   | C |
 | 5       | 兵   | 卒  | Pawn     | P |
+
+# [![appstore](images/home-icon.jpg) Back to home](README.md)
+
