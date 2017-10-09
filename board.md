@@ -30,7 +30,7 @@ The name of the Chinese Chess pieces.
 Pronunciation and meaning of pieces
 ------
 | Name  | Pronunciation | English | Abbreviated |
-| ------- |:-------------:|:-----|
+| ------- |:-------------:|:-----|:----|
 | 將      | Jeung | General     | K |
 | 帥      | Sui  | Commander in chief  | K |
 | 仕士    | Si  | Official adviser  | A |
