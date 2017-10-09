@@ -5,18 +5,18 @@
 Movements
 ------
 
-| Chinese | English | Symbol Re-presentation|
-| --------|:--------|------|
-| 進 | Forward  | + |
-| 退 | Backward | – |
-| 平 | Sideways | . |
+| Kanji | Pronunciation | English | Symbol Re-presentation|
+| --------|------|:--------|:------:|
+| 進 | Jun | Forward  | + |
+| 退 | Tui | Backward | – |
+| 平 | Ping | Sideways | . |
 
 Tandem Positions
 ------
-| Chinese | English | Symbol Re-presentation|
-|--------|:------|-------|
-| 前 |Front | + |
-| 後 | Rear | - |
+| Kanji | Pronunciation | English | Symbol Re-presentation|
+|--------|------|:------|:-------:|
+| 前 | Chin | Front | + |
+| 後 | Hau | Rear | - |
 
 Any person serious about mastering the game must learn the Chinese Notation System of writing down the moves. For the benefit of those who do not write Kanji characters, the Notation System using alphabets, numerals and mathematical symbols.
 
