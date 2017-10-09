@@ -31,8 +31,9 @@ Origin: [eat chariot](http://sevenuc.com/en/proverbs.html#chariot) <br>
 
 More funny proverbs refers here:
 ------
-![cantonese](images/cantonese.jpg) <br>
-[Funny proverbs](http://sevenuc.com/en/proverbs.html) <br>
+![cantonese](images/cantonese.jpg) <br><br>
+[Funny Proverbs: http://sevenuc.com/en/proverbs.html](http://sevenuc.com/en/proverbs.html) <br>
+------
 
 
 # [![home](images/home-icon.jpg) Back to home](README.md)
