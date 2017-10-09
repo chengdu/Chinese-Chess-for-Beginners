@@ -73,3 +73,4 @@ Example:  3 tandem pawns at #3 file and 2 at #7 file.
 
 # [![appstore](images/home-icon.jpg) Back to home](README.md)
 # [ Next -> Checkmate Methods](checkmate.md)
+

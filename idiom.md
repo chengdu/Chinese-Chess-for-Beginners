@@ -2,13 +2,13 @@
 
 Chess idioms in daily life
 ------
-Several funny idiom that references the rules of Chinese chess.
+Several funny idioms that references the rules of Chinese Chess.
 
 飛象過河 [fēi jeuhng gwo hòh]
 ------
 ![elephant over river](http://sevenuc.com/images/cantonese-proverbs/cantoneseproverb8.jpg) <br>
-(An elephant flies across the river)
-1. To break a rule
+(An elephant flies across the river.)
+1. To break a rule.
 2. To reach across the table for food. <br>
 Origin: [elephant over river](http://sevenuc.com/en/proverbs.html#elephant) <br>
 
@@ -17,7 +17,7 @@ Origin: [elephant over river](http://sevenuc.com/en/proverbs.html#elephant) <br>
 -----
 ![horse break](http://sevenuc.com/images/cantonese-proverbs/cantoneseproverb40.jpg) <br>
 
-(In a crisis, a horse can move in the field)
+(In a crisis, a horse can move in the field.)
 To be flexible, to adapt to circumstances in an emergency.<br>
 Origin: [horse break](http://sevenuc.com/en/proverbs.html#horse) <br>
 
@@ -25,7 +25,7 @@ Origin: [horse break](http://sevenuc.com/en/proverbs.html#horse) <br>
 ------
 ![eat chariot](http://sevenuc.com/images/cantonese-proverbs/cantoneseproverb64.jpg) <br>
 
-(To have eaten someone’s cart)
+(To have eaten someone’s cart.)
 To exploit or expropriate the belongings of others. <br>
 Origin: [eat chariot](http://sevenuc.com/en/proverbs.html#chariot) <br>
 
@@ -37,3 +37,4 @@ More funny proverbs refers here:
 
 
 # [![home](images/home-icon.jpg) Back to home](README.md)
+

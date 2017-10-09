@@ -2,7 +2,7 @@
 
 Chess Board
 ------
-The board is made up of 9 vertical lines (files) and 10 horizontal lines (ranks), forming 72 squares. The central row of 8 squares are merged into a "river", dividing the board into two halves, the "river" marked with four Kanji characters (楚河漢界 [Choh Hoh Hon Gaai], river of Choh and national boundary of Hon). On each side of the board, there is a "palace" consisting of 4 squares (cell) and two long diagonals. The files are numbered as 1 through 9, from right to left, and from each player’s perspective.
+The board is made up of 9 vertical lines (files) and 10 horizontal lines (ranks), forming 72 squares. The central row of 8 squares are merged into a "river", dividing the board into two halves, the "river" marked with four Kanji characters (楚河漢界, which pronounced as Choh Hoh Hon Gaai, means border river of Choh and national boundary of Hon). On each side of the board, there is a "palace" consisting of 4 cells (squares) and two long diagonals. The files are numbered as 1 through 9, from right to left, and from each player’s perspective.
 
 ![chess board](images/blackchess.png) <br>
 (fig 1).
@@ -18,7 +18,7 @@ Each side has 16 pieces, as shown in fig 1. The pieces are placed on the interse
 The name of the Chinese Chess pieces.
 
 | Number  | Red  | Black | English Translation |Letter Re-presentation|
-| ------- |:-------------:| -----:|--------:|---|
+| ------- |:-------------:| -----:|--------:|:---:|
 | 1       | 帥   | 將  | King     | K |
 | 2       | 士   | 仕  | Adviser  | A |
 | 2       | 相   | 象  | Elephant | E |
@@ -29,8 +29,8 @@ The name of the Chinese Chess pieces.
 
 Pronunciation and meaning of pieces
 ------
-| Name  | Pronunciation | English | Abbreviated |
-| ------- |:-------------:|:-----|:----|
+| Name  | Pronunciation | English | Abbreviated Letter|
+| ------- |:-------------:|:-----|:----:|
 | 將      | Jeung | General     | K |
 | 帥      | Sui  | Commander in chief  | K |
 | 仕士    | Si  | Official adviser  | A |
