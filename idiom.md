@@ -10,7 +10,7 @@ Several funny idiom that references the rules of Chinese chess.
 (An elephant flies across the river)
 1. To break a rule
 2. To reach across the table for food. <br>
-Source: ![elephant over river](http://sevenuc.com/en/proverbs.html#elephant) <br>
+Origin: ![elephant over river](http://sevenuc.com/en/proverbs.html#elephant) <br>
 
 事急馬行田 [sih gāp máah hàahng tìhn]
 -----
@@ -18,7 +18,7 @@ Source: ![elephant over river](http://sevenuc.com/en/proverbs.html#elephant) <br
 
 (In a crisis, a horse can move in the field)
 To be flexible, to adapt to circumstances in an emergency.<br>
-Source: ![elephant over river](http://sevenuc.com/en/proverbs.html#horse) <br>
+Origin: ![elephant over river](http://sevenuc.com/en/proverbs.html#horse) <br>
 
 食人隻車 [sihk yàhn jek gēui]
 ------
@@ -26,7 +26,7 @@ Source: ![elephant over river](http://sevenuc.com/en/proverbs.html#horse) <br>
 
 (To have eaten someone’s cart)
 To exploit or expropriate the belongings of others. <br>
-Source: ![elephant over river](http://sevenuc.com/en/proverbs.html#chariot) <br>
+Origin: ![elephant over river](http://sevenuc.com/en/proverbs.html#chariot) <br>
 
 More funny proverbs refers here:
 ------
