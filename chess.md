@@ -12,6 +12,8 @@ It only moves within the palace (the palace constructed with four cells, shaped 
 The Adviser:
 ------
 It moves one point at a time along the diagonals within the palace. In other words, it can only occupy the centre and the four corners of the palace. Adviser have five spots in the palace.
+
+
 ![Adviser on board](images/Adviser.png) <br>
 (fig 3).
 
@@ -45,11 +47,10 @@ The Pawn never moves backward. It moves one point at a time, and can only move s
 
 The Cannon:
 ------
-We describe the Cannon last because it is the most unique and interesting piece in Chinese Chess. All the other six types mentioned earlier move and capture in like manner. Whereas the Cannon moves like the Chariot, but it jump on straight line, capture opponent’s piece by jumping over a piece (friend or foe). In Chinese words, "炮(cannon)打(fire)翻(over)山(mountain)". Cannon must have one and only one piece to over, and the captured target must be the first piece after the over piece, the jump distance can as long as the line is not obstructed by any type of other piece.  In fig 7, the red Cannon 炮 can capture the black Pawn 卒 over the red Pawn 兵, but it cannot capture the black King 帥. Another red Cannon can capture the black Horse 馬, but the Horse protected by the sideways Chariot 軍.
+We describe the Cannon last because it is the most unique and interesting piece in Chinese Chess. All the other six types mentioned earlier move and capture in like manner. Whereas the Cannon moves like the Chariot, but it jump on straight line, capture opponent’s piece by jumping over a piece (friend or foe). In Chinese words, "炮(cannon)打(fire)翻(over)山(mountain)". Cannon must have one and only one piece to over, and the captured target must be the first piece after the over piece, the jump distance can as long as the line is not obstructed by any type of other piece.  In fig 7, the red Cannon 炮 can capture the black Pawn 卒 over the red Pawn 兵, but it cannot capture the black King  將. Another red Cannon can capture the black Horse 馬, but the Horse protected by the sideways Chariot 軍.
 
 ![Cannon on board](images/Cannon.png) <br>
 (fig 7).
 
 # [![appstore](images/home-icon.jpg) Back to home](README.md)
 # [ Next -> The Notation System](notation.md)
-
