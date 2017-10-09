@@ -9,7 +9,7 @@ Several funny idiom that references the rules of Chinese chess.
 ![elephant over river](http://sevenuc.com/images/cantonese-proverbs/cantoneseproverb8.jpg) <br>
 (An elephant flies across the river)
 1. To break a rule
-2. To reach across the table for food.
+2. To reach across the table for food. <br>
 Source: ![elephant over river](http://sevenuc.com/en/proverbs.html#elephant) <br>
 
 事急馬行田 [sih gāp máah hàahng tìhn]
