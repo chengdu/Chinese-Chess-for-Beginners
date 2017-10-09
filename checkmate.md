@@ -8,4 +8,5 @@ Simple Checkmate.
 ![Checkmate](images/Checkmate.png)
 
 # [![appstore](images/home-icon.jpg) Back to home](README.md)
+# [ Next -> Chess Idioms](idiom.md)
 

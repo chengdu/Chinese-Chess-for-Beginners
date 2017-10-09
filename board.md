@@ -2,7 +2,7 @@
 
 Chess Board
 ------
-The board is made up of 9 vertical lines (files) and 10 horizontal lines (ranks), forming 72 squares. The central row of 8 squares are merged into a "river", dividing the board into two halves, the "river" marked with four Kanji characters (楚河漢界). On each side of the board, there is a "palace" consisting of 4 squares (cell) and two long diagonals. The files are numbered as 1 through 9, from right to left, and from each player’s perspective.
+The board is made up of 9 vertical lines (files) and 10 horizontal lines (ranks), forming 72 squares. The central row of 8 squares are merged into a "river", dividing the board into two halves, the "river" marked with four Kanji characters (楚河漢界 [Choh Hoh Hon Gaai], river of Choh and national boundary of Hon). On each side of the board, there is a "palace" consisting of 4 squares (cell) and two long diagonals. The files are numbered as 1 through 9, from right to left, and from each player’s perspective.
 
 ![chess board](images/blackchess.png) <br>
 (fig 1).
@@ -27,5 +27,20 @@ The name of the Chinese Chess pieces.
 | 2       | 炮   | 砲  | Cannon   | C |
 | 5       | 兵   | 卒  | Pawn     | P |
 
-# [![appstore](images/home-icon.jpg) Back to home](README.md)
+Pronunciation and meaning of pieces
+------
+| Name  | Pronunciation | English | Abbreviated |
+| ------- |:-------------:|:-----|
+| 將      | Jeung | General     | K |
+| 帥      | Sui  | Commander in chief  | K |
+| 仕士    | Si  | Official adviser  | A |
+| 相      | Seung | Looks; prime minister | E |
+| 象      | Jeung | Seems; elephant   | E |
+| 軍      | Gwan  |  Machine; chariot | R |
+| 馬      | Ma | Horse | H |
+| 炮砲    | Paau | Cannon  | C |
+| 兵  |  Bing | Pawn;soldier  | P |
+| 卒  |  Jut  | Pawn;soldier  | P |
 
+# [![appstore](images/home-icon.jpg) Back to home](README.md)
+# [ Next -> Rules of Chinese Chess](chess.md)

@@ -72,3 +72,4 @@ Example:  3 tandem pawns at #3 file and 2 at #7 file.
 * 7-.6  for #7 file rear pawn to traverse to #6 file
 
 # [![appstore](images/home-icon.jpg) Back to home](README.md)
+# [ Next -> Checkmate Methods](checkmate.md)

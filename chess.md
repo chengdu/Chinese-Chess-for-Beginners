@@ -28,7 +28,7 @@ The most powerful piece. It move on straight line, that means it can move forwar
 
 The Horse:
 ------
-Horse move on 日, it moves on diagonals of two cell, the two cell constructed a Kanji character 日, vertically or horizontally.
+Horse move on 日, it moves on diagonals of two cell, the two cell constructed a Kanji character 日, vertically or horizontally. In Chinese words, "馬(horse)踩(tramp)日(day)角(diagonal)".
 
 ![Horse move on 日](images/日.png) <br>
 (fig 5).
@@ -51,4 +51,5 @@ We describe the Cannon last because it is the most unique and interesting piece 
 (fig 7).
 
 # [![appstore](images/home-icon.jpg) Back to home](README.md)
+# [ Next -> The Notation System](notation.md)
 
