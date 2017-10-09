@@ -4,7 +4,7 @@
 
 The King:
 ------
-It only moves within the palace (the palace constructed with four cells (squares), shaped as same as Kanji character 田 which pronounced as Tin, means rice field.), one point either horizontally or vertically. There is a unique rule about the King, the two Kings must not be facing each other directly i.e. unobstructed by any other piece, along a file. If you have to move your King to directly face opponent’s King, it means you lose. King have nine points in the palace as indicated in fig 2.
+It only moves within the palace (the palace constructed with four cells, shaped as same as Kanji character 田 which pronounced as Tin, means rice field), one point either horizontally or vertically. There is a unique rule about the King, the two Kings must not be facing each other directly i.e. unobstructed by any other piece, along a file. If you have to move your King to directly face opponent’s King, it means you lose. King have nine points in the palace as indicated in fig 2.
 
 ![King on board](images/King.png) <br>
 (fig 2).
@@ -19,7 +19,7 @@ It moves one point at a time along the diagonals within the palace. In other wor
 
 The Elephant:
 ------
-Elephant move on four cells (squares) that constructed a Kanji character 田, it moves on the diagonals of the four cells, i.e. moves exactly two points diagonally. Elephant cannot cross the river, so there are only seven points in the home camp which can ever be occupied by the Elephant. Further more, its movement will be blocked if there is a piece, be its friend or foe, at the intervening point (centre of the four squares), there're eight such points on each side. Thus, in fig 4, the red Elephant can not go to point A because the centre of the four squares occupied by black chaRiot.
+Elephant move on four cells (squares) that constructed a Kanji character 田, it moves on the diagonals of the four cells, i.e. moves exactly two points diagonally. Elephant cannot cross the river, so there are only seven points in the home camp which can ever be occupied by the Elephant. Further more, its movement will be blocked if there is a piece, be its friend or foe, at the intervening point, i.e. the centre of the four cells), there're eight such points on each side. Thus, in fig 4, the red Elephant can not go to point A because the centre of the four cells (squares) occupied by a black chaRiot.
 
 ![Elephant on board](images/Elephant.png) <br>
 (fig 4).
@@ -30,7 +30,7 @@ The most powerful piece. It move on straight line, that means it can move forwar
 
 The Horse:
 ------
-Horse move on 日, it moves on diagonals of two cell, the two cell constructed a Kanji character 日, vertically or horizontally. In Chinese words, "馬(horse)踏(tramp)日(day)角(diagonal)", pronounced as Ma Daap Yat Gok.
+Horse moves on diagonals of two cells which constructed a Kanji character 日, vertically or horizontally. In Chinese term, "馬(horse)踏(tramp)日(day)角(diagonal)", pronounced as Ma Daap Yat Gok.
 
 ![Horse move on 日](images/日.png) <br>
 (fig 5).
@@ -47,7 +47,7 @@ The Pawn never moves backward. It moves one point at a time, and can only move s
 
 The Cannon:
 ------
-We describe the Cannon last because it is the most unique and interesting piece in Chinese Chess. All the other six types mentioned earlier move and capture in like manner. Whereas the Cannon moves like the Chariot, but it jump on straight line, capture opponent’s piece by jumping over a piece (friend or foe). In Chinese words, "炮(cannon)打(fire)翻(over)山(mountain)",  pronounced as Paau Da Faan Saan. Cannon must have one and only one piece to over, and the captured target must be the first piece after the over piece, the jump distance can as long as the line is not obstructed by any type of other piece.  In fig 7, the red Cannon 炮 can capture the black Pawn 卒 over the red Pawn 兵, but it cannot capture the black King  將. Another red Cannon can capture the black Horse 馬, but the Horse protected by the sideways Chariot 軍.
+We describe the Cannon last because it is the most unique and interesting piece in Chinese Chess. All the other six types mentioned earlier move and capture in like manner. Whereas the Cannon moves like the Chariot, but it jump on straight line, capture opponent’s piece by jumping over a piece (friend or foe). In Chinese term, "炮(cannon)打(fire)翻(over)山(mountain)",  pronounced as Paau Da Faan Saan. Cannon must have one and only one piece to over, and the captured target must be the first piece after the over piece, the jump distance can as long as the line is not obstructed by any type of other piece.  In fig 7, the red Cannon can capture the black Pawn over the red Pawn, but it can not capture the black King. Another red Cannon can capture the black Horse, but the Horse protected by another piece, the sideways Chariot.
 
 ![Cannon on board](images/Cannon.png) <br>
 (fig 7).
