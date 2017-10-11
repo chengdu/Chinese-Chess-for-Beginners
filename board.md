@@ -16,7 +16,7 @@ The Pieces
 Each side has 16 pieces, as shown in fig 1. The pieces are placed on the intersections of the lines (points). Fig 1 shows the initial setup of the pieces.
 
 The name of the Chinese Chess pieces.
-
+------
 | Number  | Red  | Black | English Translation |Letter Re-presentation|
 | ------- |:-------------:| -----:|--------:|:---:|
 | 1       | 帥   | 將  | King     | K |
@@ -29,18 +29,19 @@ The name of the Chinese Chess pieces.
 
 Pronunciation and meaning of pieces
 ------
-| Name  | Pronunciation | English | Abbreviated Letter|
-| -------|:-------------:|:-----|:----:|
+| Name | Pronunciation | English | Abbreviated Letter|
+| ------ |:-------------:|:--------|:-----------------:|
 | 將      | Jeung | General             | K |
 | 帥      | Sui   | Commander in chief  | K |
 | 仕士     | Si    | Official adviser    | A |
 | 相      | Seung | Looks, prime minister | E |
 | 象      | Jeung | Seems, elephant   | E |
-| 車      | Gui   |  Machine, chariot | R |
-| 馬      | Ma    | Horse | H |
-| 炮砲     | Paau  | Cannon  | C |
+| 車      | Gui   | Machine, chariot | R |
+| 馬      | Ma    | Horse            | H |
+| 炮砲     | Paau  | Cannon         | C |
 | 兵      |  Bing | Pawn, soldier  | P |
 | 卒      |  Jut  | Pawn, soldier  | P |
+
 
 # [![appstore](images/home-icon.jpg) Back to home](https://chengdu.github.io/Chinese-Chess-for-Beginners/index.html)
 # [ Next -> Rules of Chinese Chess](https://chengdu.github.io/Chinese-Chess-for-Beginners/chess.html)
