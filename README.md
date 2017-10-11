@@ -14,7 +14,7 @@ Index of content:
 * [The Notation System](notation.md)
 * [Checkmate Methods](checkmate.md)
 * [Chess Idioms](idiom.md)
-* [Read Kanji Characters in Chess](audio.html)
+* [Read Kanji Characters in Chess](audio.md)
 
 A funny app on App Store: <br>
 Chinese Chess Reviewer, a pocket chess review, analyse and learning app, a powerful move Recorder and game records Player.
