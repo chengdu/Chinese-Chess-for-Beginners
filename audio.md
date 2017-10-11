@@ -1,3 +1,4 @@
+{::nomarkdown}
 <!doctype html>
 <html lang="en">
 <head>
@@ -158,4 +159,5 @@ function play(id){
 
 </body>
 </html>
+{:/}
 
