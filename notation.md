@@ -71,6 +71,7 @@ Example:  3 tandem pawns at #3 file and 2 at #7 file.
 * 7+.6  for #7 file front pawn to traverse to #6 file
 * 7-.6  for #7 file rear pawn to traverse to #6 file
 
-# [![appstore](images/home-icon.jpg) Back to home](README.md)
-# [ Next -> Checkmate Methods](checkmate.md)
+# [![appstore](images/home-icon.jpg) Back to home](https://chengdu.github.io/Chinese-Chess-for-Beginners/index.html)
+# [ Next -> Checkmate Methods](https://chengdu.github.io/Chinese-Chess-for-Beginners/checkmate.html)
+
 

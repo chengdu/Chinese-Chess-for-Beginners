@@ -36,5 +36,5 @@ More funny proverbs refers here:
 ------
 
 
-# [![home](images/home-icon.jpg) Back to home](README.md)
+# [![home](images/home-icon.jpg) Back to home](https://chengdu.github.io/Chinese-Chess-for-Beginners/index.html)
 

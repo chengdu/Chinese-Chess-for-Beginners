@@ -52,5 +52,6 @@ We describe the Cannon last because it is the most unique and interesting piece 
 ![Cannon on board](images/Cannon.png) <br>
 (fig 7).
 
-# [![appstore](images/home-icon.jpg) Back to home](README.md)
-# [ Next -> The Notation System](notation.md)
+# [![appstore](images/home-icon.jpg) Back to home](https://chengdu.github.io/Chinese-Chess-for-Beginners/index.html)
+# [ Next -> The Notation System](https://chengdu.github.io/Chinese-Chess-for-Beginners/notation.html)
+

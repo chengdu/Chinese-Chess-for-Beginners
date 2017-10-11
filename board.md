@@ -42,5 +42,6 @@ Pronunciation and meaning of pieces
 | 兵  |  Bing | Pawn;soldier  | P |
 | 卒  |  Jut  | Pawn;soldier  | P |
 
-# [![appstore](images/home-icon.jpg) Back to home](README.md)
-# [ Next -> Rules of Chinese Chess](chess.md)
+# [![appstore](images/home-icon.jpg) Back to home](https://chengdu.github.io/Chinese-Chess-for-Beginners/index.html)
+# [ Next -> Rules of Chinese Chess](https://chengdu.github.io/Chinese-Chess-for-Beginners/chess.html)
+
