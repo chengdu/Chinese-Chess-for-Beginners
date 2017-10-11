@@ -22,7 +22,7 @@ The name of the Chinese Chess pieces.
 | 1       | 帥   | 將  | King     | K |
 | 2       | 士   | 仕  | Adviser  | A |
 | 2       | 相   | 象  | Elephant | E |
-| 2       | 軍   | 軍  | chaRiot  | R |
+| 2       | 車   | 車  | chaRiot  | R |
 | 2       | 馬   | 馬  | Horse    | H |
 | 2       | 炮   | 砲  | Cannon   | C |
 | 5       | 兵   | 卒  | Pawn     | P |
@@ -36,7 +36,7 @@ Pronunciation and meaning of pieces
 | 仕士    | Si  | Official adviser  | A |
 | 相      | Seung | Looks; prime minister | E |
 | 象      | Jeung | Seems; elephant   | E |
-| 軍      | Gwan  |  Machine; chariot | R |
+| 車      | Gui  |  Machine; chariot | R |
 | 馬      | Ma | Horse | H |
 | 炮砲    | Paau | Cannon  | C |
 | 兵  |  Bing | Pawn;soldier  | P |
