@@ -13,12 +13,14 @@ The object of the game is to win by either capturing the opponent’s King (chec
 
 The Pieces
 ------
+
 Each side has 16 pieces, as shown in fig 1. The pieces are placed on the intersections of the lines (points). Fig 1 shows the initial setup of the pieces.
 
 The name of the Chinese Chess pieces.
 ------
+
 | Number  | Red  | Black | English Translation |Letter Re-presentation|
-| ------- |:-------------:| -----:|--------:|:---:|
+| ------- |:----:| -----:|--------:|:---:|
 | 1       | 帥   | 將  | King     | K |
 | 2       | 士   | 仕  | Adviser  | A |
 | 2       | 相   | 象  | Elephant | E |
@@ -29,11 +31,12 @@ The name of the Chinese Chess pieces.
 
 Pronunciation and meaning of pieces
 ------
+
 | Name | Pronunciation | English | Abbreviated Letter|
-| ------ |:-------------:|:--------|:-----------------:|
+| -----|:-------------:|:--------|:-----------------:|
 | 將      | Jeung | General             | K |
 | 帥      | Sui   | Commander in chief  | K |
-| 仕士    | Si | Official adviser    | A |
+| 仕士    | Si    | Official adviser    | A |
 | 相      | Seung | Looks, prime minister | E |
 | 象      | Jeung | Seems, elephant   | E |
 | 車      | Gui   | Machine, chariot | R |
