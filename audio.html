@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Chinese Chess for Beginners</title>
+<meta name="description" content="Chinese Chess for Beginners">
+<meta name="author" content="sevenuc.com">
+<!--[if lt IE 9]>
+<script src="js/html5shiv.min.js"></script>
+<![endif]-->
+<style type="text/css">
+table {
+max-width: 100%;
+background:#fed;
+border:1px solid #630;
+border-left: 0;
+border-spacing: 2px;
+border-collapse: collapse;
+*border-collapse: collapsed;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px;}
+table th,
+table td {
+  padding: 8px;
+  line-height: 18px;
+  max-width: 100px;
+  text-align: left;
+  vertical-align: top;
+  border: 1px solid #630;
+}
+table th { vertical-align: bottom; font-weight: bold; border: 1px solid #630;}
+.white {background:white; border: 1px solid #630;}
+</style>
+<script type='text/javascript'>
+function play(id){
+ var audioFile = document.getElementById(id);
+ if (audioFile.paused) { audioFile.play(); } else { audioFile.pause(); }
+}
+</script>
+</head>
+<body>
+<h1>Chinese Chess for Beginners</h1>
+<h3>Kanji characters in Chinese Chess </h3>
+<table><tr><th>Kanji Character</th><th>English</th>
+<th>Yale Romanisation</th><th>Jyutping Romanisation</th><th>Audio</th></tr>
+<tr class="white"><td>象棋</td><td> Chinese Chess </td><td> Jeung Kei</td><td> zoeng6 kei4</td><td>
+<audio id="audio1"><source src="audio/象棋.mp3" type="audio/mpeg"/></audio>
+<button id="text1" onclick="play('audio1');"> ♪ </button>
+</td></tr>
+<tr><td>世事如棋</td><td>Life is just in harmony with Chess, masters, always keeping watch in silence, meet trouble, backward still have chances; once made a decision, never regret.</td> 
+<td> Sai Si Yue Kei</td><td>sai3 si6 jyu4 kei4</td><td>
+<audio id="audio2"><source src="audio/世事如棋.mp3" type="audio/mpeg"/></audio>
+<button id="text2" onclick="play('audio2');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>楚河漢界</td> <td> border river of Choh and national boundary of Hon </td> <td>Choh Hoh Hon Gaai</td><td>co2 ho4 hon3 gaai3</td><td>
+<audio id="audio3"><source src="audio/楚河漢界.mp3" type="audio/mpeg"/></audio>
+<button id="text3" onclick="play('audio3');"> ♪ </button>
+</td></tr>
+<tr><td>將</td> <td> General </td> <td> Jeung </td><td> zoeng1 </td><td>
+<audio id="audio4"><source src="audio/將.mp3" type="audio/mpeg"/></audio>
+<button id="text4" onclick="play('audio4');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>帥</td> <td> Commander in chief  </td> <td> Sui </td><td> seoi3 </td><td>
+<audio id="audio5"><source src="audio/帥.mp3" type="audio/mpeg"/></audio>
+<button id="text5" onclick="play('audio5');"> ♪ </button>
+</td></tr>
+<tr><td>仕士</td> <td> Adviser </td> <td> Si </td><td> si6 </td><td>
+<audio id="audio6"><source src="audio/仕.mp3" type="audio/mpeg"/></audio>
+<button id="text6" onclick="play('audio6');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>象</td> <td> Seems; elephant </td> <td> Jeung </td><td> zoeng6 </td><td>
+<audio id="audio7"><source src="audio/象.mp3" type="audio/mpeg"/></audio>
+<button id="text7" onclick="play('audio7');"> ♪ </button>
+</td></tr>
+<tr><td>相</td> <td> Looks; prime minister </td><td> Seung </td> <td> soeng3 </td><td>
+<audio id="audio8"><source src="audio/相.mp3" type="audio/mpeg"/></audio>
+<button id="text8" onclick="play('audio8');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>車</td> <td> Machine; chariot </td> <td> Gui </td><td> gei1 </td><td>
+<audio id="audio9"><source src="audio/車.mp3" type="audio/mpeg"/></audio>
+<button id="text9" onclick="play('audio9');"> ♪ </button>
+</td></tr>
+<tr><td>馬</td> <td> Horse </td> <td> Ma </td><td> maa5 </td><td>
+<audio id="audio10"><source src="audio/馬.mp3" type="audio/mpeg"/></audio>
+<button id="text10" onclick="play('audio10');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>砲</td> <td> Cannon </td> <td> Paau </td><td> paau3 </td><td>
+<audio id="audio11"><source src="audio/砲.mp3" type="audio/mpeg"/></audio>
+<button id="text11" onclick="play('audio11');"> ♪ </button>
+</td></tr>
+<tr><td>炮</td> <td> Cannon </td> <td> Paau </td><td> paau4 </td><td>
+<audio id="audio12"><source src="audio/炮.mp3" type="audio/mpeg"/></audio>
+<button id="text12" onclick="play('audio12');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>兵</td> <td> Pawn;soldier </td> <td> Bing </td><td> bing1 </td><td>
+<audio id="audio13"><source src="audio/兵.mp3" type="audio/mpeg"/></audio>
+<button id="text13" onclick="play('audio13');"> ♪ </button>
+</td></tr>
+<tr><td>卒</td> <td> Pawn;soldier </td> <td> Jut </td><td> zeot1 </td><td>
+<audio id="audio14"><source src="audio/卒.mp3" type="audio/mpeg"/></audio>
+<button id="text14" onclick="play('audio14');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>田</td> <td> Rice field </td> <td> Tin </td><td> tin4 </td><td>
+<audio id="audio15"><source src="audio/田.mp3" type="audio/mpeg"/></audio>
+<button id="text15" onclick="play('audio15');"> ♪ </button>
+</td></tr>
+<tr><td>日</td> <td> Day;Sun </td><td> Yat </td> <td> jat6 </td><td>
+<audio id="audio16"><source src="audio/日.mp3" type="audio/mpeg"/></audio>
+<button id="text16" onclick="play('audio16');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>馬踏日角</td> <td>Horse tramp diagonal of the shape of character day</td> <td> Ma Daap Yat Gok </td><td> maa5 daap6 jat6 gok3</td><td>
+<audio id="audio17"><source src="audio/馬踏日角.mp3" type="audio/mpeg"/></audio>
+<button id="text17" onclick="play('audio17');"> ♪ </button>
+</td></tr>
+<tr><td>炮打翻山</td> <td> Cannon fire over mountain </td> <td> Paau Da Faan Saan </td><td> maa5 daap6 jat6 gok3</td><td>
+<audio id="audio18"><source src="audio/炮打翻山.mp3" type="audio/mpeg"/></audio>
+<button id="text18" onclick="play('audio18');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>進</td> <td> Forward </td> <td> Jun </td><td> zeon3 </td><td>
+<audio id="audio19"><source src="audio/進.mp3" type="audio/mpeg"/></audio>
+<button id="text19" onclick="play('audio19');"> ♪ </button>
+</td></tr>
+<tr><td>退</td> <td> Backward </td> <td> Tui </td><td> teoi3 </td><td>
+<audio id="audio20"><source src="audio/退.mp3" type="audio/mpeg"/></audio>
+<button id="text20" onclick="play('audio20');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>平</td> <td> Traverse; horizontally move</td> <td> Ping </td><td> ping4 </td><td>
+<audio id="audio21"><source src="audio/平.mp3" type="audio/mpeg"/></audio>
+<button id="text21" onclick="play('audio21');"> ♪ </button>
+</td></tr>
+<tr><td>前</td> <td> Front </td> <td> Chin </td><td> cin4 </td><td>
+<audio id="audio22"><source src="audio/前.mp3" type="audio/mpeg"/></audio>
+<button id="text22" onclick="play('audio22');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>後</td> <td> Rear </td> <td> Hau </td><td> hau6 </td><td>
+<audio id="audio23"><source src="audio/後.mp3" type="audio/mpeg"/></audio>
+<button id="text23" onclick="play('audio23');"> ♪ </button>
+</td></tr>
+<tr><td>飛象過河</td> <td> Break a rule. </td> <td> Fei Jeung Gwoh Hoh</td><td> fei1 zoeng6 gwo3 ho4</td><td>
+<audio id="audio24"><source src="audio/飛象過河.mp3" type="audio/mpeg"/></audio>
+<button id="text24" onclick="play('audio24');"> ♪ </button>
+</td></tr>
+<tr class="white"><td>事急馬行田</td> <td>To be flexible, to adapt to circumstances in an emergency. </td> <td> Si Gap Ma Haang Tin</td><td>si6 gap1 maa5 hang6 tin4</td><td>
+<audio id="audio25"><source src="audio/事急馬行田.mp3" type="audio/mpeg"/></audio>
+<button id="text25" onclick="play('audio25');"> ♪ </button>
+</td></tr>
+<tr><td>食人隻車</td> <td> To exploit or expropriate the belongings of others.</td> <td> Sik Yan Jek Gui</td><td>sik6 jan4 zek3 gei1</td><td>
+<audio id="audio26"><source src="audio/食人隻車.mp3" type="audio/mpeg"/></audio>
+<button id="text26" onclick="play('audio26');"> ♪ </button>
+</td></tr>
+</table>
+<br>
+
+<a href="https://github.com/chengdu/Chinese-Chess-for-Beginners/blob/master/README.md"><img src="images/home-icon.jpg"> Back to home</a> <br>
+<br>
+<br>
+
+</body>
+</html>
+
