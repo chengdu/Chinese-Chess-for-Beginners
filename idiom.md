@@ -1,7 +1,5 @@
-# Chinese Chess for Beginners
+## Chess idioms in daily life
 
-Chess idioms in daily life
-------
 Several funny idioms that references the rules of Chinese Chess.
 
 飛象過河 [fēi jeuhng gwo hòh]

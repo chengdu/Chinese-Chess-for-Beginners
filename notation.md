@@ -1,5 +1,3 @@
-# Chinese Chess for Beginners
-
 ## Notation System
 
 Movements
@@ -13,8 +11,9 @@ Movements
 
 Tandem Positions
 ------
+
 | Kanji | Pronunciation | English | Symbol Re-presentation|
-|--------|------|:------|:-------:|
+|-------|------|:------|:-------:|
 | 前 | Chin | Front | + |
 | 後 | Hau | Rear | - |
 

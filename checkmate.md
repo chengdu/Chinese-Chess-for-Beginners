@@ -1,6 +1,4 @@
-# Chinese Chess for Beginners
-
-Checkmate
+## Checkmate
 ------
 
 Simple Checkmate.

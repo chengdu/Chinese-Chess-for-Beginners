@@ -1,5 +1,3 @@
-# Chinese Chess for Beginners
-
 ## Movements of Pieces
 
 The King:

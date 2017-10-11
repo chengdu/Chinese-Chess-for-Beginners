@@ -1,6 +1,4 @@
-# Chinese Chess for Beginners
-
-Chess Board
+## Chess Board
 ------
 The board is made up of 9 vertical lines (files) and 10 horizontal lines (ranks), forming 72 squares, we call each square a cell. The central row of 8 squares are merged into a "river", dividing the board into two halves, the "river" marked with four Kanji characters (楚河漢界, which pronounced as Choh Hoh Hon Gaai, means border river of Choh and national boundary of Hon). On each side of the board, there is a "palace" consisting of 4 squares and two long diagonals. The files are numbered as 1 through 9, from right to left, and from each player’s perspective.
 
