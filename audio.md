@@ -1,5 +1,5 @@
-{::nomarkdown}
-<!doctype html>
+```html
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -159,5 +159,5 @@ function play(id){
 
 </body>
 </html>
-{:/}
+```
 
